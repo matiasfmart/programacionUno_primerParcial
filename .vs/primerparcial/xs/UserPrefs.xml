@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{924E34A3-81B9-46B7-935A-6CD11BEDAEC2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="primerparcial/Cola.cs">
+    <Files>
+      <File FileName="primerparcial/Program.cs" Line="68" Column="37" />
+      <File FileName="primerparcial/nodo_alumno.cs" Line="9" Column="42" />
+      <File FileName="primerparcial/Cola.cs" Line="171" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="primerparcial" expanded="True">
+            <Node name="primerparcial" expanded="True">
+              <Node name="Cola.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.primerparcial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

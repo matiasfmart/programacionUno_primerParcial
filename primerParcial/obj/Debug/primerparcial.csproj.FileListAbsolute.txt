@@ -1,0 +1,6 @@
+/Users/matiasmartinez/Projects/primerparcial/primerparcial/bin/Debug/primerparcial.exe
+/Users/matiasmartinez/Projects/primerparcial/primerparcial/bin/Debug/primerparcial.pdb
+/Users/matiasmartinez/Projects/primerparcial/primerparcial/obj/Debug/primerparcial.csprojAssemblyReference.cache
+/Users/matiasmartinez/Projects/primerparcial/primerparcial/obj/Debug/primerparcial.csproj.CoreCompileInputs.cache
+/Users/matiasmartinez/Projects/primerparcial/primerparcial/obj/Debug/primerparcial.exe
+/Users/matiasmartinez/Projects/primerparcial/primerparcial/obj/Debug/primerparcial.pdb
